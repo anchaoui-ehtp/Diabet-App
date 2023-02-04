@@ -1,3 +1,4 @@
+pip
 azureml-train-automl-runtime==1.48.0.post1
 inference-schema
 azureml-interpret==1.48.0
