@@ -105,7 +105,7 @@ LunarCalendar
 markdown-it-py==2.1.0
 MarkupSafe==2.1.2
 matplotlib
-mdurl==0.1.2
+mdurl
 mkl-service==2.3.0
 ml-wrappers==0.2.2
 mlflow-skinny==1.30.0
