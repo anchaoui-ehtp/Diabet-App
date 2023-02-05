@@ -106,7 +106,7 @@ markdown-it-py==2.1.0
 MarkupSafe==2.1.2
 matplotlib
 
-mkl-service==2.3.0
+
 ml-wrappers==0.2.2
 mlflow-skinny==1.30.0
 msal==1.21.0
