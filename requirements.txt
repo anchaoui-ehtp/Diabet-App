@@ -66,7 +66,7 @@ fsspec==2023.1.0
 gensim==3.8.3
 google-api-core==2.11.0
 google-auth==2.16.0
-googleapis-common-os
+
 gunicorn==20.1.0
 h5py==3.8.0
 heapdict==1.0.1
