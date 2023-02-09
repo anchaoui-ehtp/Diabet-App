@@ -203,4 +203,4 @@ wincertstore==0.2
 wrapt==1.12.1
 zict==2.2.0
 zipp==3.12.0
-dataclass
+dataclasses
