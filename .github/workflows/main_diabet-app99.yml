@@ -64,3 +64,7 @@ jobs:
           app-name: 'diabet-app99'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA89152F84C34256961FDA81D7F3F24F }}
+      - name: update apt
+        run: sudo apt-get update -y
+      - name: install libgomp1
+        run: sudo apt-get install -y libgomp1
