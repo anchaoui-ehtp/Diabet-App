@@ -1,7 +1,9 @@
 import streamlit as st
 import pandas as pd
 import pickle
-#import azureml.automl.core
+import subprocess
+
+subprocess.call(['sh', 'start.sh'])
 
 st.write("""
 # MSDE4 : Cloud Computing Course
