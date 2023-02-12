@@ -160,5 +160,4 @@ websocket-client==1.5.0
 werkzeug==2.1.2
 wrapt==1.12.1
 zict==2.2.0
-xgboost
-gcc
+opencv-python
