@@ -161,3 +161,4 @@ werkzeug==2.1.2
 wrapt==1.12.1
 zict==2.2.0
 opencv-python
+xgboost
