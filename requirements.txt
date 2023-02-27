@@ -149,7 +149,7 @@ sortedcontainers==2.4.0
 sparse==0.13.0
 stack-data==0.6.2
 statsmodels==0.11.1
-streamlit==1.18.1
+streamlit
 tblib==1.7.0
 termcolor==2.2.0
 toolz==0.12.0
@@ -160,5 +160,4 @@ websocket-client==1.5.0
 werkzeug==2.1.2
 wrapt==1.12.1
 zict==2.2.0
-opencv-python
 xgboost
